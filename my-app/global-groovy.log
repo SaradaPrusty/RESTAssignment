@@ -1,0 +1,102 @@
+2020-07-25 22:26:35,067 INFO  [log] {"success":1,"error":[],"data":{"access_token":"c77f87cae22f5d7508953f542e9d5518df6d3f6f","expires_in":86400,"token_type":"Bearer"}}
+2020-07-25 22:26:35,149 INFO  [log] c77f87cae22f5d7508953f542e9d5518df6d3f6f
+2020-07-25 22:26:35,703 INFO  [log] HTTP status code: 200
+2020-07-25 22:26:36,829 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"103.214.63.58","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-07-25 22:26:36,836 INFO  [log] upskills_admin
+2020-07-25 22:26:37,299 INFO  [log] {"success":1,"error":[],"data":[]}
+2020-07-25 22:26:37,300 INFO  [log] 1
+2020-07-25 22:26:37,759 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"103.214.63.58","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-07-25 22:26:37,760 INFO  [log] upskills_admin
+2020-07-25 22:26:39,448 INFO  [log] The total number of rows are 2
+2020-07-25 22:26:39,450 INFO  [log] The total number of Columns are 5
+2020-07-25 22:26:39,936 INFO  [log] {"success":1,"error":[],"data":{"id":1657}}
+2020-07-25 22:26:39,936 INFO  [log] 1657
+2020-07-25 22:26:40,347 INFO  [log] {"success":1,"error":[],"data":{"id":1657,"manufacturer":"","sku":"","model":"Lenovo Thinkpad","image":"","images":[],"original_image":"","original_images":[],"price":"150000.0000","tax_value":0,"price_formated":"?150,000.00","rating":0,"product_description":[{"language_id":"1","name":"Lenovo Thinkpad T450","description":"","meta_description":"","meta_keyword":"","meta_title":"Lenovo Thinkpad T450","tag":""}],"product_attributes":[],"stores":[0],"special":[],"discounts":[],"options":[],"minimum":1,"upc":"","ean":"","jan":"","isbn":"","mpn":"","location":"","stock_status":"2-3 Days","manufacturer_id":"","tax_class_id":0,"date_available":"2020-07-25","weight":"0.00000000","weight_class_id":1,"length":"0.00000000","width":"0.00000000","height":"0.00000000","length_class_id":1,"subtract":1,"sort_order":1,"status":1,"stock_status_id":6,"date_added":"2020-07-25 16:56:39","date_modified":"2020-07-25 16:56:39","viewed":0,"weight_class":"kg","length_class":"cm","reward":"","points":0,"keyword":[],"shipping":1,"category":[],"quantity":5,"reviews":{"review_total":"0"},"product_relateds":[],"filters":[],"currency_id":4,"currency_code":"INR","currency_value":"1.00000000"}}
+2020-07-25 22:26:40,348 INFO  [log] 1657
+2020-07-25 22:26:40,350 INFO  [log] 1657
+2020-07-25 22:26:41,008 INFO  [log] HTTP status code: 404
+2020-07-25 22:26:41,009 INFO  [log] [HTTP/1.1 404 Not Found]
+2020-07-25 22:26:41,119 INFO  [log] {"success":1,"error":[],"data":{"id":1657,"manufacturer":"","sku":"","model":"Lenovo Thinkpad","image":"","images":[],"original_image":"","original_images":[],"price":"150000.0000","tax_value":0,"price_formated":"?150,000.00","rating":0,"product_description":[{"language_id":"1","name":"Lenovo Thinkpad T450","description":"","meta_description":"","meta_keyword":"","meta_title":"Lenovo Thinkpad T450","tag":""}],"product_attributes":[],"stores":[0],"special":[],"discounts":[],"options":[],"minimum":1,"upc":"","ean":"","jan":"","isbn":"","mpn":"","location":"","stock_status":"2-3 Days","manufacturer_id":"","tax_class_id":0,"date_available":"2020-07-25","weight":"0.00000000","weight_class_id":1,"length":"0.00000000","width":"0.00000000","height":"0.00000000","length_class_id":1,"subtract":1,"sort_order":1,"status":1,"stock_status_id":6,"date_added":"2020-07-25 16:56:39","date_modified":"2020-07-25 16:56:39","viewed":0,"weight_class":"kg","length_class":"cm","reward":"","points":0,"keyword":[],"shipping":1,"category":[],"quantity":5,"reviews":{"review_total":"0"},"product_relateds":[],"filters":[],"currency_id":4,"currency_code":"INR","currency_value":"1.00000000"}}
+2020-07-25 22:26:41,119 INFO  [log] {"success":0,"error":["Product not found"],"data":[]}
+2020-07-25 22:26:42,898 INFO  [log] {"success":1,"error":[],"data":{"id":1346}}
+2020-07-25 22:26:42,900 INFO  [log] 1346
+2020-07-25 22:26:42,936 INFO  [log] 9492.1772
+2020-07-25 22:26:43,337 INFO  [log] {"success":1,"error":[],"data":{"id":1347}}
+2020-07-25 22:26:43,338 INFO  [log] 1347
+2020-07-25 22:26:43,864 INFO  [log] {"success":1,"error":[],"data":{"id":1658}}
+2020-07-25 22:26:43,987 INFO  [log] 1346
+2020-07-25 22:26:43,987 INFO  [log] 1347
+2020-07-25 22:26:43,988 INFO  [log] 9492.1772
+2020-07-25 22:26:45,009 INFO  [log] {"success":1,"error":[],"data":{"id":1348}}
+2020-07-25 22:26:45,009 INFO  [log] 1348
+2020-07-25 22:26:45,010 INFO  [log] 7349.0410
+2020-07-25 22:26:45,278 INFO  [log] {"success":1,"error":[],"data":{"id":1349}}
+2020-07-25 22:26:45,278 INFO  [log] 1349
+2020-07-25 22:26:45,552 INFO  [log] {"success":1,"error":[],"data":{"id":1659}}
+2020-07-25 22:26:45,555 INFO  [log] 1348
+2020-07-25 22:26:45,555 INFO  [log] 1349
+2020-07-25 22:26:45,555 INFO  [log] 7349.0410
+2020-07-25 22:26:45,711 INFO  [log] Status: FINISHED, time taken for TestCase was: 983 ms
+2020-07-25 22:26:45,719 INFO  [log] Number of test Steps which ran: 5
+2020-07-25 22:26:46,515 INFO  [log] Total number of rows are 2
+2020-07-25 22:26:46,515 INFO  [log] 1348
+2020-07-25 22:26:47,145 INFO  [log] {"success":1,"error":[],"data":[{"category_id":1348,"name":"Computers & Accessories","description":"Description of the Computers & Accessories","sort_order":0,"meta_title":"Computers & Accessories","meta_description":"","meta_keyword":"","language_id":1,"status":"1","parent_id":0,"column":1,"top":"0","category_store":["0"],"category_seo_url":[],"category_layout":[],"category_filter":[],"image":"","original_image":"","categories":[]}]}
+2020-07-25 22:26:48,722 INFO  [log] The Category ID is >>>   1325
+2020-07-25 22:26:49,023 INFO  [log] {"success":1,"error":[],"data":[{"category_id":1325,"name":"Computers & Accessories","description":"Description of the Computers & Accessories","sort_order":0,"meta_title":"Computers & Accessories","meta_description":"","meta_keyword":"","language_id":1,"status":"1","parent_id":0,"column":1,"top":"0","category_store":["0"],"category_seo_url":[],"category_layout":[],"category_filter":[],"image":"","original_image":"","categories":[]}]}
+2020-07-25 22:26:49,024 INFO  [log] The Category ID is >>>   1332
+2020-07-25 22:26:49,393 INFO  [log] {"success":1,"error":[],"data":[{"category_id":1332,"name":"Computers & Accessories","description":"Description of the Computers & Accessories","sort_order":0,"meta_title":"Computers & Accessories","meta_description":"","meta_keyword":"","language_id":1,"status":"1","parent_id":0,"column":1,"top":"0","category_store":["0"],"category_seo_url":[],"category_layout":[],"category_filter":[],"image":"","original_image":"","categories":[]}]}
+2020-07-25 22:26:49,393 INFO  [log] The Category ID is >>>   1334
+2020-07-25 22:26:49,655 INFO  [log] {"success":1,"error":[],"data":[{"category_id":1334,"name":"Computers & Accessories","description":"Description of the Computers & Accessories","sort_order":0,"meta_title":"Computers & Accessories","meta_description":"","meta_keyword":"","language_id":1,"status":"1","parent_id":0,"column":1,"top":"0","category_store":["0"],"category_seo_url":[],"category_layout":[],"category_filter":[],"image":"","original_image":"","categories":[]}]}
+2020-07-25 22:26:49,656 INFO  [log] The Category ID is >>>   1
+2020-07-25 22:26:49,921 INFO  [log] The Entered category_Id doesn't exist
+2020-07-25 22:31:30,367 INFO  [log] {"success":1,"error":[],"data":{"access_token":"a7563bbb2a47a17d7d1e3d72c98d149912372b76","expires_in":86400,"token_type":"Bearer"}}
+2020-07-25 22:31:30,460 INFO  [log] a7563bbb2a47a17d7d1e3d72c98d149912372b76
+2020-07-25 22:31:31,113 INFO  [log] HTTP status code: 200
+2020-07-25 22:31:32,207 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"103.214.63.58","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-07-25 22:31:32,211 INFO  [log] upskills_admin
+2020-07-25 22:31:32,592 INFO  [log] {"success":1,"error":[],"data":[]}
+2020-07-25 22:31:32,594 INFO  [log] 1
+2020-07-25 22:31:32,954 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"103.214.63.58","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-07-25 22:31:32,954 INFO  [log] upskills_admin
+2020-07-25 22:31:34,950 INFO  [log] The total number of rows are 2
+2020-07-25 22:31:34,951 INFO  [log] The total number of Columns are 5
+2020-07-25 22:31:36,847 INFO  [log] {"success":1,"error":[],"data":{"id":1660}}
+2020-07-25 22:31:36,847 INFO  [log] 1660
+2020-07-25 22:31:37,283 INFO  [log] {"success":1,"error":[],"data":{"id":1660,"manufacturer":"","sku":"","model":"Lenovo Thinkpad","image":"","images":[],"original_image":"","original_images":[],"price":"150000.0000","tax_value":0,"price_formated":"?150,000.00","rating":0,"product_description":[{"language_id":"1","name":"Lenovo Thinkpad T450","description":"","meta_description":"","meta_keyword":"","meta_title":"Lenovo Thinkpad T450","tag":""}],"product_attributes":[],"stores":[0],"special":[],"discounts":[],"options":[],"minimum":1,"upc":"","ean":"","jan":"","isbn":"","mpn":"","location":"","stock_status":"2-3 Days","manufacturer_id":"","tax_class_id":0,"date_available":"2020-07-25","weight":"0.00000000","weight_class_id":1,"length":"0.00000000","width":"0.00000000","height":"0.00000000","length_class_id":1,"subtract":1,"sort_order":1,"status":1,"stock_status_id":6,"date_added":"2020-07-25 17:01:36","date_modified":"2020-07-25 17:01:36","viewed":0,"weight_class":"kg","length_class":"cm","reward":"","points":0,"keyword":[],"shipping":1,"category":[],"quantity":5,"reviews":{"review_total":"0"},"product_relateds":[],"filters":[],"currency_id":4,"currency_code":"INR","currency_value":"1.00000000"}}
+2020-07-25 22:31:37,285 INFO  [log] 1660
+2020-07-25 22:31:37,286 INFO  [log] 1660
+2020-07-25 22:31:37,938 INFO  [log] HTTP status code: 404
+2020-07-25 22:31:37,939 INFO  [log] [HTTP/1.1 404 Not Found]
+2020-07-25 22:31:38,121 INFO  [log] {"success":1,"error":[],"data":{"id":1660,"manufacturer":"","sku":"","model":"Lenovo Thinkpad","image":"","images":[],"original_image":"","original_images":[],"price":"150000.0000","tax_value":0,"price_formated":"?150,000.00","rating":0,"product_description":[{"language_id":"1","name":"Lenovo Thinkpad T450","description":"","meta_description":"","meta_keyword":"","meta_title":"Lenovo Thinkpad T450","tag":""}],"product_attributes":[],"stores":[0],"special":[],"discounts":[],"options":[],"minimum":1,"upc":"","ean":"","jan":"","isbn":"","mpn":"","location":"","stock_status":"2-3 Days","manufacturer_id":"","tax_class_id":0,"date_available":"2020-07-25","weight":"0.00000000","weight_class_id":1,"length":"0.00000000","width":"0.00000000","height":"0.00000000","length_class_id":1,"subtract":1,"sort_order":1,"status":1,"stock_status_id":6,"date_added":"2020-07-25 17:01:36","date_modified":"2020-07-25 17:01:36","viewed":0,"weight_class":"kg","length_class":"cm","reward":"","points":0,"keyword":[],"shipping":1,"category":[],"quantity":5,"reviews":{"review_total":"0"},"product_relateds":[],"filters":[],"currency_id":4,"currency_code":"INR","currency_value":"1.00000000"}}
+2020-07-25 22:31:38,122 INFO  [log] {"success":0,"error":["Product not found"],"data":[]}
+2020-07-25 22:31:39,575 INFO  [log] {"success":1,"error":[],"data":{"id":1350}}
+2020-07-25 22:31:39,576 INFO  [log] 1350
+2020-07-25 22:31:39,598 INFO  [log] 9645.6731
+2020-07-25 22:31:39,969 INFO  [log] {"success":1,"error":[],"data":{"id":1351}}
+2020-07-25 22:31:39,970 INFO  [log] 1351
+2020-07-25 22:31:40,327 INFO  [log] {"success":1,"error":[],"data":{"id":1661}}
+2020-07-25 22:31:40,405 INFO  [log] 1350
+2020-07-25 22:31:40,405 INFO  [log] 1351
+2020-07-25 22:31:40,406 INFO  [log] 9645.6731
+2020-07-25 22:31:41,277 INFO  [log] {"success":1,"error":[],"data":{"id":1352}}
+2020-07-25 22:31:41,278 INFO  [log] 1352
+2020-07-25 22:31:41,279 INFO  [log] 1411.4778
+2020-07-25 22:31:41,561 INFO  [log] {"success":1,"error":[],"data":{"id":1353}}
+2020-07-25 22:31:41,561 INFO  [log] 1353
+2020-07-25 22:31:41,843 INFO  [log] {"success":1,"error":[],"data":{"id":1662}}
+2020-07-25 22:31:41,846 INFO  [log] 1352
+2020-07-25 22:31:41,847 INFO  [log] 1353
+2020-07-25 22:31:41,847 INFO  [log] 1411.4778
+2020-07-25 22:31:42,288 INFO  [log] Status: FINISHED, time taken for TestCase was: 1283 ms
+2020-07-25 22:31:42,320 INFO  [log] Number of test Steps which ran: 5
+2020-07-25 22:31:43,426 INFO  [log] Total number of rows are 2
+2020-07-25 22:31:43,426 INFO  [log] 1352
+2020-07-25 22:31:44,048 INFO  [log] {"success":1,"error":[],"data":[{"category_id":1352,"name":"Computers & Accessories","description":"Description of the Computers & Accessories","sort_order":0,"meta_title":"Computers & Accessories","meta_description":"","meta_keyword":"","language_id":1,"status":"1","parent_id":0,"column":1,"top":"0","category_store":["0"],"category_seo_url":[],"category_layout":[],"category_filter":[],"image":"","original_image":"","categories":[]}]}
+2020-07-25 22:31:45,147 INFO  [log] The Category ID is >>>   1325
+2020-07-25 22:31:45,414 INFO  [log] {"success":1,"error":[],"data":[{"category_id":1325,"name":"Computers & Accessories","description":"Description of the Computers & Accessories","sort_order":0,"meta_title":"Computers & Accessories","meta_description":"","meta_keyword":"","language_id":1,"status":"1","parent_id":0,"column":1,"top":"0","category_store":["0"],"category_seo_url":[],"category_layout":[],"category_filter":[],"image":"","original_image":"","categories":[]}]}
+2020-07-25 22:31:45,415 INFO  [log] The Category ID is >>>   1332
+2020-07-25 22:31:45,760 INFO  [log] {"success":1,"error":[],"data":[{"category_id":1332,"name":"Computers & Accessories","description":"Description of the Computers & Accessories","sort_order":0,"meta_title":"Computers & Accessories","meta_description":"","meta_keyword":"","language_id":1,"status":"1","parent_id":0,"column":1,"top":"0","category_store":["0"],"category_seo_url":[],"category_layout":[],"category_filter":[],"image":"","original_image":"","categories":[]}]}
+2020-07-25 22:31:45,761 INFO  [log] The Category ID is >>>   1334
+2020-07-25 22:31:46,020 INFO  [log] {"success":1,"error":[],"data":[{"category_id":1334,"name":"Computers & Accessories","description":"Description of the Computers & Accessories","sort_order":0,"meta_title":"Computers & Accessories","meta_description":"","meta_keyword":"","language_id":1,"status":"1","parent_id":0,"column":1,"top":"0","category_store":["0"],"category_seo_url":[],"category_layout":[],"category_filter":[],"image":"","original_image":"","categories":[]}]}
+2020-07-25 22:31:46,021 INFO  [log] The Category ID is >>>   1
+2020-07-25 22:31:46,286 INFO  [log] The Entered category_Id doesn't exist
